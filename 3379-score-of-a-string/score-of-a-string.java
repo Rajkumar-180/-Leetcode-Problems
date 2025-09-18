@@ -1,6 +1,6 @@
 class Solution {
     public int scoreOfString(String s) {
-        int count = 0,res =0;
+        int res = 0;
         for(int i=0;i<s.length()-1;i++)
         {
             char a = s.charAt(i);
