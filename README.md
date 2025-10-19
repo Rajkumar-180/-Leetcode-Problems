@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Dynamic Programming
 |  |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+## Depth-First Search
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
