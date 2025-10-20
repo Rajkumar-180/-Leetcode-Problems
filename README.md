@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Binary Search
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Dynamic Programming
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
