@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Binary Search
 |  |
 | ------- |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## String
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -53,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 <!---LeetCode Topics End-->
