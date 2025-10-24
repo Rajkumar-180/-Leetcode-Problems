@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Simulation
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -83,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Hash Table
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
+## Backtracking
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
+## Counting
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
