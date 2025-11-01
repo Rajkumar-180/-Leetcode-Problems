@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2169-simple-bank-system](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Backtracking
 |  |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
