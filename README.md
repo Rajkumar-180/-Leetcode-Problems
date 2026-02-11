@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
 |  |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
