@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0756-pyramid-transition-matrix](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0067-add-binary) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2211-count-collisions-on-a-road) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0840-magic-squares-in-grid](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
