@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3379-transformed-array) |
