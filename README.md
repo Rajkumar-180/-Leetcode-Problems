@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
