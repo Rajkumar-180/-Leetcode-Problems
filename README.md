@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2615-sum-of-distances) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2540-minimum-common-value](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3453-separate-squares-i) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2402-meeting-rooms-iii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
+| [2540-minimum-common-value](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -748,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2540-minimum-common-value](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Graph Theory
 |  |
