@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2169-simple-bank-system](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2402-meeting-rooms-iii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2751-robot-collisions) |
