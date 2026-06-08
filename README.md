@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
