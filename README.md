@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0696-count-binary-substrings](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
