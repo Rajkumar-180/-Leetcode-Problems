@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0799-champagne-tower) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0788-rotated-digits) |
@@ -1047,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Minimum Spanning Tree
 |  |
@@ -1074,4 +1078,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
