@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
