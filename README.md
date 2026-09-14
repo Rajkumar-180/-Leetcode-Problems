@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1018,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Rajkumar-180/-Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
